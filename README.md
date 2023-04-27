@@ -1,2 +1,3 @@
-# Gap-Equation-Solution
-I solved the equation of interest for my friend who studies superconductivity. I though my solution and method was interesting enough to share
+# ReadMe
+
+*Please enable [MathJax Plugin for Github](https://chrome.google.com/webstore/detail/mathjax-plugin-for-github/ioemnmodlmafdkllaclgeombjnmnbima?hl=en) or similiar to view $\LaTeX$.*
