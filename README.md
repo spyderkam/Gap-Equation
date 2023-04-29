@@ -4,6 +4,6 @@
 
 ## A Unique Solution to a Gap Equation
 
-The contents in the `ipynb` file offer a novel solution to the following Gap equation: <br>
+The contents in the Python based `ipynb` file offer a novel solution to the following Gap equation: <br>
 
 $$ m = 1 - \frac{6}{\pi^2}m\left(10\sqrt{10^2 + m^2} - m^2\ln{\frac{10 + \sqrt{10^2 + m^2}}{m}}\right) + \frac{12}{\pi^2}m\int_0^{10} \frac{p^2 dp}{\sqrt{p^2 + m^2}}\left[ \frac{1}{e^{\left(\sqrt{p^2 + m^2} +1\right)} +1} + \frac{1}{e^{\left(\sqrt{p^2 + m^2} - 1\right)}+1} \right] $$
